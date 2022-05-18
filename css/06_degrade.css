@@ -1,0 +1,9 @@
+.contenu{
+    height: 45em; /*hauteur*/
+    width: 45em; /*Largeur*/
+    margin: auto; /*centre automatique la balise*/
+    border-radius: 50%; /*arrondi les angle*/
+    background: linear-gradient(to bottom, #e2b949, #a44083); /* dégradé qui démarre avec la première couleur à droite et la dernière à gauche (violet - vert}*/
+
+    /*lien vers un générateur de dégradé : cssgradient.io dans le slack (https://cssgradient.io/)*/
+}
