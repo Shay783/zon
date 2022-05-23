@@ -6,4 +6,17 @@
     background: linear-gradient(to bottom, #e2b949, #a44083); /* dégradé qui démarre avec la première couleur à droite et la dernière à gauche (violet - vert}*/
 
     /*lien vers un générateur de dégradé : cssgradient.io dans le slack (https://cssgradient.io/)*/
+} 
+
+h1{ font-family: 'Koulen', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Odibee Sans', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+
+    color: crimson;
+    
+
+    
 }

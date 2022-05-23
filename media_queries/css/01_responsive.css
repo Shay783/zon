@@ -1,5 +1,5 @@
-/*Media queries permettent de ré-arranger la disposition d site en fontion des tailles de navigateur en px -cf. viewportsizes.com - 3 tailles suffisant
-on peut faire une feuille de style standard et une css rien que pour la reposive de base, la zone rouge. Si l'ecran est de plus de 768px et jusqu'a 992px la zone est orange*/
+/*Media-queries permet de ré-arranger la disposition du site en fontion des tailles de navigateur en px -cf. viewportsizes.com - 3 tailles suffisant
+on peut faire une feuille de style standard et une css. Rien que pour la reposive de base, la zone est rouge. Si l'ecran est de plus de 768px et jusqu'a 992px la zone est orange*/
 
 .zone-adaptative{
     background: red;
@@ -7,3 +7,23 @@ on peut faire une feuille de style standard et une css rien que pour la reposive
     padding: 10px;
 }
 
+@media (min-width: 768px){
+    .zone-adaptive{
+        width: 750px;
+        background: orange;
+    }
+}
+
+@media(min-width: 992px){
+    .zone-adaptative{
+        width:970px;
+        background: blue;
+    }
+}
+
+@media (min-widht:1200px){
+    .zone-adaptative{
+        width:1170px;
+        background: green;
+    }
+}
