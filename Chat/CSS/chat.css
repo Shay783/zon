@@ -1,0 +1,47 @@
+*{
+background-color: #29347B;
+
+}
+#conteneur{
+    width: 50%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    margin: 50px;
+    color: #fff;
+    font-family: 'Koulen', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Odibee Sans', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Flex', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+}
+
+
+.img1{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+
+}
+
+.img2{
+    display: flex;
+    text-align: center;
+    color: white;
+
+}
+    
+
+
+
+/* .img{
+    float: left;
+    height: 122px;
+    line-height: 450px;
+    /* text-align: center; */
+    /* width: 232px;
+    line-height: 25px;
+} */ 

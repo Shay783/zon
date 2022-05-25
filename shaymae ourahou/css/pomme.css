@@ -1,0 +1,59 @@
+body{
+    background-color: #cef2c9 ;
+   
+}
+section{
+    background-color: white;
+    
+}
+
+
+
+.center{
+    background-color: #73ca67 ;
+   color: white;
+    
+}
+
+.photo2{
+    float: right;  
+
+}
+
+.Texte1 {
+    padding-left: 10%;
+}
+
+.Texte2 {
+    padding-left: 10%;
+}
+
+.Texte3 {
+    padding-left: 10%;
+}
+
+.Texte4 {
+    padding-left: 10%;
+}
+
+p{
+    padding-left: 10%;
+}
+
+h1{
+    padding-left: 10%;
+    color: #73ca67;
+    
+}
+
+h2{
+    padding-left: 10%;
+    color: #73ca67;
+}
+
+.photobzr{
+    width: 46px;
+    height: 44px;
+    margin-top: 5%;
+
+}
